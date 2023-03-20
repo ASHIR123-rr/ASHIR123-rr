@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ASHIR123-rr
+- 👋 Hi, I’m @Ashir
 - 👀 I’m interested in python developer
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currrently pursuing MCA
 - 💞️ I’m looking to collaborate on not decided
 - 📫 How to reach me mdashir81@gmail.com
 
